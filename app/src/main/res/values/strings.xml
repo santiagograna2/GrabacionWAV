@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">On air</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="elegir_formato">Seleccione formato de audio</string>
+    <string name="grabar">GRABAR</string>
+    <string name="parar">PARAR</string>
+    <string name="formato">FORMATO</string>
+    <string name="reproducir">REPRODUCIR</string>
+</resources>
